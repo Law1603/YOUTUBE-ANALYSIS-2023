@@ -17,14 +17,15 @@ Data Visualization – PowerBI
 
 
 # Summary of Findings
-The WWE YouTube channel alongside Vlad and Nikki YouTube channel have the highest subscriber count and view count .
-Education has the highest number of videos views.
-The music category has a total of 3 trillion views.
-United states and India have the highest number of subscribers globally.
-The highest earning youtubers globally are from south Korea. 
-Vlad and Niki rank the highest in the entertainment category.
-Samoa, Cuba, Andorra, Afghanistan and Bangladesh have the highest unemployment rate and below 1.0 percentile on YouTube yearly.
-Education is the most viewed category followed by entertainment, music ,gaming and people blogs.
+•	The WWE YouTube channel alongside Vlad and Nikki YouTube channel have the highest subscriber count and view count .
+•	Education has the highest number of videos views.
+•	The music category has a total of 3 trillion views.
+•	United states and India have the highest number of subscribers globally.
+•	The highest earning youtubers globally are from south Korea. 
+•	Vlad and Niki rank the highest in the entertainment category.
+•	Samoa, Cuba, Andorra, Afghanistan and Bangladesh have the highest unemployment rate and below 1.0 percentile on YouTube yearly.
+•	Education is the most viewed category followed by entertainment, music ,gaming and people blogs.
+
 
 # Limitations
 •	Correlation vs. Causation: The project may identify correlations between different variables, such as the relationship between earnings and unemployment rates or video views and subscribers. However, identifying causal relationships is more complex. For example, observing that high-earning YouTubers are predominantly from countries with low unemployment rates does not necessarily mean that low unemployment causes high YouTube earnings. Without controlled experiments or deeper statistical analysis, the project may be limited in its ability to draw definitive causal conclusions.
