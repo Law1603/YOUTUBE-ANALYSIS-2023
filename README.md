@@ -32,7 +32,7 @@
 
 •	Vlad and Niki rank the highest in the entertainment category.
 
-•	Samoa, Cuba, Andorra, Afghanistan and Bangladesh have the highest unemployment rate and below 1.0 percentile on YouTube yearly.
+•	Samoa, Cuba, Andorra, Afghanistan and Bangladesh have the highest unemployment rate and below 1.0 percentile on YouTube earnings  yearly.
 
 •	Education is the most viewed category followed by entertainment, music ,gaming and people blogs.
 
